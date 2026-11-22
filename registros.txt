@@ -1,0 +1,18 @@
+2026-11-22 01:26:11,297 - INFO - Reserva R010 creada correctamente.
+2026-11-22 01:26:11,297 - INFO - Reserva R010 confirmada.
+2026-11-22 01:26:11,297 - ERROR - Error al procesar reserva R010: El impuesto y descuento deben estar entre 0 y 100.
+2026-11-22 01:26:23,113 - INFO - Cliente Carlos Perez registrado correctamente.
+2026-11-22 01:26:23,114 - INFO - Cliente Maria Rodriguez registrado correctamente.
+2026-11-22 01:26:23,114 - ERROR - Error de cliente: El correo electronico no es valido.
+2026-11-22 01:26:23,115 - INFO - Servicio Sala de reuniones registrado.
+2026-11-22 01:26:23,115 - INFO - Servicio Computador portatil registrado.
+2026-11-22 01:26:23,115 - INFO - Servicio Asesoria de software registrado.
+2026-11-22 01:26:23,115 - ERROR - Servicio rechazado: El precio debe ser mayor que cero.
+2026-11-22 01:26:23,115 - INFO - Reserva R001 creada correctamente.
+2026-11-22 01:26:23,115 - INFO - Reserva R001 confirmada.
+2026-11-22 01:26:23,116 - INFO - Reserva R001 procesada. Costo total: $119000.0
+2026-11-22 01:26:23,116 - ERROR - Error de reserva: La duracion debe ser mayor que cero.
+2026-11-22 01:26:23,116 - INFO - Reserva R003 creada correctamente.
+2026-11-22 01:26:23,116 - INFO - Reserva R003 cancelada.
+2026-11-22 01:26:23,116 - INFO - Ejecucion de las 10 operaciones finalizada.
+2026-11-22 01:26:23,116 - INFO - Finalizacion del programa principal.
